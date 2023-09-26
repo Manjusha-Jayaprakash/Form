@@ -1,0 +1,78 @@
+.Box{
+    height: 700px;
+    width: 80%;
+    background:linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(9,9,121,1) 35%, rgba(0,212,255,1) 100%);
+margin-left:10%;
+padding-top: 100px;
+
+}
+.Regpage{
+    background-color: white;
+    height: 500px;
+    width:60%;
+    margin-left: 15%;
+    border-radius: 10px;
+    border:2px solid blue;
+    padding: 50px;
+    font-size: xx-large;
+    color: blue;    
+    font-weight: 500;
+    display: block;
+    font-family:'Arial Narrow';
+}
+.Details{
+   color: rgb(220, 45, 153);
+    height: 350px;
+    width: 100%;
+    font-size: large;
+    font-weight: normal;
+    margin-top: 30px;
+}
+input{
+width: 100%;
+height:20px;
+border: 2px solid blue;
+border-radius: 10px;
+margin-top: 5px;
+}
+.Button{
+    width: 20%;
+    height: 30px;
+    background-color:rgb(225, 56, 112);
+float: right;
+margin-top: 40px;
+padding: 3px;
+border-radius: 10px;
+color:blue;
+font-weight: 800;
+}
+.Error{
+    color:red;
+    height: 10px;
+    width: 100%;
+    font-size: small;
+}
+p{
+    margin-top: 0;
+}
+#Gender{
+  margin-top: 10px;
+   height: 10px;
+   width: 10%;
+}
+.Dropdown{
+  color: rgb(220, 45, 153);
+  margin-top: 10px;
+}
+.Languages{
+ margin-top: 10px;
+display: block;
+}
+.Checkbox{
+ width: 15px;
+ height: 15px;
+ border-color: black;
+}
+.Otherlang{
+    width:20%;
+}
